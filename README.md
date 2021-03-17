@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Deniz
+- 👀 I’m interested in Javascript,UI-Design, Mobile Development
+- 🌱 I’m currently learning React-Native
